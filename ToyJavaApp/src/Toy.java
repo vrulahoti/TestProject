@@ -9,6 +9,7 @@ public class Toy {
 		System.out.println("This is a very small toy");
 		System.out.println("This is a toy");
 		System.out.println("Have a great d");
+		System.out.println("adding another line to console")
 	}
 
 }
